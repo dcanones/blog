@@ -1,0 +1,5 @@
+.dataframe{
+    display: block;
+    overflow: auto;
+    border: black;
+}

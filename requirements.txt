@@ -1,0 +1,9 @@
+markdown
+pelican
+jupyter
+ipython
+nbconvert
+beautifulsoup4
+matplotlib
+typogrify
+s3cmd
