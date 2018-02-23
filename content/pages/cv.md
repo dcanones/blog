@@ -3,26 +3,22 @@ Header_Cover: /images/pages/cv/desk.jpg
 
 # David Adrián Cañones Castellano
 
-## Data Scientist & Python Engineer
+## Data Scientist
 
 ## Summary
-IT Specialist with 2+ years of experience. Proficient Python coder in different environments like **Data
-Science** and Web Development. Artificial Intelligence enthusiast. Familiar with agile development methodologies 
-like scrum.
 
-Fast learner and never-ending student, enjoy taking MOOCs and testing new technologies and python
-libraries.
+I provide data-driven solutions to complex business problems.
 
-__At this very moment__ I am looking for new challenges *__abroad__*, especially in Data Science related positions
- (junior) and with an english-speaking working environment. I would like to:  
+Data Scientist with 3+ years of experience. Python language enthusiast and proficient coder, familiar with Big Data 
+technologies and open source advocate. I have been working with clients from very different backgrounds ranging from 
+telco to financial sectors.
 
-* Experience a new country and culture.
-* Advance my career.
-* Learn new technologies.
-* Master & practice English language.
+I love learning new things and being at the forefront of data technology.
 
-If you are a recruiter and find my profile interesting, please contact me at [this][mail] email.
-You can also download a .doc version of my resume here.
+__At this very moment__ I am *__happily employed__*, and I am not actively accepting new job offers neither from Spain
+or abroad.
+
+You can download a .doc version of my resume here.
 
 <a style="text-decoration: none" class="btn btn-primary btn-block" href="/downloads/david_canones_resume.doc" download>
 <i class="fa fa-download" aria-hidden="true"></i> Download this CV (upd. august 2017)
@@ -37,31 +33,33 @@ You can also download a .doc version of my resume here.
 ---
 
 ## Experience
-__Data Scientist (R&D), [Grupo Servinform][svf] (September 2016 - Today):__  
-I am working as full time Data Scientist in data driven innovation projects, some of them awarded with EU R&D funds.
+__Data Scientist, [Kernel Analytics][ka] (October 2017 - Today):__  
+At this moment I am full time employed by Kernel Analytics, a boutique Data Science consultancy firm. We help our
+customers to make better decisions taking advantage of data and advanced analytics techniques. We work for top spanish
+and international companies.
 
-- Responsibilities: designing **data pipelines** (cleaning algorithms, storage, data exploitation and
-visualization), web development, implementing **machine learning** and **natural language
-processing** features and writing technical documentation.
+- Responsibilities: designing and implementing **data pipelines**, performing **exploratory data analysis**,
+training **machine learning models**, **communicating results** using dashboards, visualizations and presentations.
+Handling large amounts of data using **Big Data** technologies.
 
-- Environment: Python, pandas, Git, NumPy, PostgreSQL, Django, Flask, Bokeh, Matplotlib,
-Seaborn, NLTK, REST APIs, scikit-learn, Jupyter, Anaconda, Microservices, Windows, CSS, HTML.
+__Data Scientist (R&D), [Grupo Servinform][svf] (September 2016 - October 2017):__  
+Worked as researcher Data Scientist in a data driven research project awarded with EU R&D funds. This project was
+the result of a collaboration with [IWT2][iwt2], a research group from the University of Seville.
 
+- Responsibilities: designed **data pipelines** using a **micro-services** approach, wrote large parts of the **web app
+ backend**, implemented a **recommendation system** and **natural language processing** applied to a search engine, 
+ wrote technical documentation.
 
+__Python Engineer & Co-Founder, Glycerine (January 2017 - January 2018):__  
+Glycerine was an entrepreneurship and learning project consisting on an Instagram account automation system ‘as a
+service’; a bot that impersonates the user and mimics his behavior resulting in having a robotic 'community manager'
+working 24/7 for an instagram account. At this moment the project is cancelled due to Instagram efforts to stop this
+kind of bot-based products and the growing difficulty to find suitable project collaborators. We will open source most
+of source code in the near future.
 
-__Python Engineer & Co-Founder, [Atomic Media][amedia] (January 2017 - Today):__  
-Atomic Media is an entrepreneurship and learning project. Our first product (called Glycerine) is an 
-Instagram account automation system ‘as a service’. At this moment is in open beta for Spanish market,
- accessible [here][glycerine] and frequently updated.
- We will open source most of the code soon.
-
-- Responsibilities: As tech co-founder, I am responsible of all aspects related to technology like
+- Responsibilities: As tech co-founder, I was responsible of all aspects related to technology like
 **architecting, infrastructure provisioning, developing, deploying, operations, implementing new
 features based on beta testers’ feedback and bug fixing**.
-
-- Environment: Python, SQL, Amazon Web Services (Lightsail, EC2, RDS, Route 53, Cloudfront,
-Elasticache), Redis, PostgreSQL, Django, Git, Flask, SQLAlchemy, REST APIs, Multiprocessing,
-Nginx, Gunicorn, Linux, Google Analytics, Facebook Analytics, HTML, CSS, Less.
 
 __Junior Consultant, [Grupo Servinform][svf] (January 2016 - September 2016):__  
 As a Junior IT Consultant, I participated in relevant projects at the Innovation and Consultancy department, 
@@ -110,7 +108,8 @@ Adviser: Dr. Manuel Antonio Silva Pérez
  
 __In progress__
 
-* [Deep Learning Specialization][dlandng], deeplearning.io, Coursera
+* [Deep Learning Specialization][dlandng] (2/5 completed), deeplearning.io, Coursera
+* [Data Engineer Track](https://www.dataquest.io/path/data-engineer) (10% completion), Dataquest.io
 
 __Completed__ (click to go certification)
 
@@ -153,6 +152,7 @@ __Completed__ (click to go certification)
 
 * [PostgreSQL](https://www.postgresql.org/)
 * [SQLite](https://www.sqlite.org/)
+* [Oracle](https://www.oracle.com/database/index.html)
 
 #### NoSQL
 
@@ -178,6 +178,8 @@ __Completed__ (click to go certification)
 ### Big Data
 
 * [Apache Spark](https://spark.apache.org/)
+* [Apache Hadoop](http://hadoop.apache.org/)
+* [Apache Impala](https://impala.apache.org/)
 
 ### Infrastructure
 
@@ -194,8 +196,12 @@ __Completed__ (click to go certification)
 
 #### Data handling
 
-* [Pandas](https://pandas.pydata.org/)
+* [__Pandas__](https://pandas.pydata.org/)
 * [NumPy](http://www.numpy.org/)
+
+#### Data pipelines
+
+* [Apache Airflow](https://airflow.apache.org/)
 
 #### Scientific computing
 
@@ -215,12 +221,14 @@ __Completed__ (click to go certification)
 #### Natural Language Processing
 
 * [NLTK](http://www.nltk.org/)
+* [spaCy](https://spacy.io/)
 
 #### Visualization
 
 * [Matplotlib](https://matplotlib.org/)
 * [Seaborn](https://seaborn.pydata.org/)
 * [Bokeh](http://bokeh.pydata.org/en/latest/)
+* [Folium](https://folium.readthedocs.io/en/latest/)
 
 ---
 
@@ -236,7 +244,9 @@ These are technologies and libraries I have to learn but still had no time to ma
 * [Docker](https://www.docker.com/)
 
 
+[ka]:https://www.kernel-analytics.com/en/
 [svf]:http://www.servinform.es/
+[iwt2]:http://iwt2.org/en/home/
 [amedia]:http://www.atomicmedia.es/
 [eoi]:https://www.eoi.es/
 [us]:http://www.us.es/
