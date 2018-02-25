@@ -7,6 +7,7 @@ Authors: David Adrián Cañones Castellano
 Summary: Welcome to Data Jungle
 Header_Cover: /images/posts/first_post/coding.jpg
 Headline: Why and How am I blogging?
+Status: draft
 
 #Welcome!
 This is the very first content of this blog and I am going to try to make a proper introduction and explain some things.

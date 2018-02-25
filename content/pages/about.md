@@ -55,11 +55,12 @@ Share my life with Cristina:
 
 ![Cristina][cris]
 
-At this moment we live in beautiful and sunny Seville:
+At this moment I live in Madrid:
 
-![Picture of Seville][seville]
+![Picture of Madrid][madrid]
 
 [seville]: {filename}/images/pages/about/seville.jpg "Seville"
+[madrid]: {filename}/images/pages/about/madrid.jpg "Madrid"
 [gaming]: {filename}/images/pages/about/gaming.jpg "Gaming"
 [traveling]: {filename}/images/pages/about/traveling.jpg "Traveling"
 [family]: {filename}/images/pages/about/family.jpg "Cañones Castellano Family"
