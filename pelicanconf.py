@@ -59,11 +59,8 @@ DEFAULT_PAGINATION = False
 THEME_PATH = os.path.join(BASE_PATH, 'themes')
 THEME = os.path.join(THEME_PATH, 'pelican-clean-blog')
 DISPLAY_PAGES_ON_MENU = True
-HEADER_COVER = '/images/main_header/shanghai.jpg'
+HEADER_COVER = 'images/main_header/shanghai.jpg'
 CSS_OVERRIDE = 'static/css/custom_style.css'
-
-#GOOGLE_ANALYTICS = 'UA-93362002-1'
-#DISQUS_SITENAME = "davidadrian-cc"
 
 COLOR_SCHEME_CSS = 'monokai.css'
 

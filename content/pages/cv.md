@@ -1,5 +1,5 @@
 Title: Curriculum Vitae
-Header_Cover: /images/pages/cv/desk.jpg
+Header_Cover: images/pages/cv/desk.jpg
 
 # David Adrián Cañones Castellano
 

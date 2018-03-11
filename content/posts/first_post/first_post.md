@@ -5,7 +5,7 @@ Tags: pelican, publishing, python, static website, amazon web services
 Slug: first-post
 Authors: David Adrián Cañones Castellano
 Summary: Welcome to Data Jungle
-Header_Cover: /images/posts/first_post/coding.jpg
+Header_Cover: images/posts/first_post/coding.jpg
 Headline: Why and How am I blogging?
 Status: draft
 

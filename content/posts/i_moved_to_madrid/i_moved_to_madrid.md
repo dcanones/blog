@@ -5,12 +5,12 @@ Tags: Madrid, Spain, Seville, Data Science, Job
 Slug: i-moved-to-madrid
 Authors: David Adrián Cañones Castellano
 Summary: Moving from a middle sized city in the deep south of Spain to the third largest urban area in Europe is a big change. In this post I write about the pros and cons of living in a city like Madrid.
-Header_Cover: /images/posts/i_moved_to_madrid/madrid-black.jpg
+Header_Cover: images/posts/i_moved_to_madrid/madrid-black.jpg
 Headline: Nothing last forever
 
 # The story
 
-Let's go straight to the point. At the moment of writing this lines, I have been living in Madrid for 5 months. I grew
+Let's go straight to the point. At the moment of writing these lines, I have been living in Madrid for 5 months. I grew
 up in a small village and moved to the closest urban area (Seville) when I started college. I spent nine years there of 
 both hard study and work. I had my entire life in Seville: an apartment, a car, all my stuff, my girlfriend, my family, 
 (most of) my friends.
@@ -128,7 +128,7 @@ Transportation system is terrible, with only one underground line and mostly bas
 frequency follow some illogical patterns, with buses in router anybody takes with 5 minutes frequency while the most 
 important routes are collapsed.
 
-<div class='text-center'>
+<div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3vFK4FMcAW0?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 

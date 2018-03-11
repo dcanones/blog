@@ -1,5 +1,5 @@
 Title: I am David
-Header_Cover: /images/pages/about/malta.jpg
+Header_Cover: images/pages/about/malta.jpg
 
 My name is David Adrián Cañones Castellano and I am engineer, consultant and entrepreneur. During the day, I work as a consultant. At night I work in [Atomic Media](http://www.atomicmedia.es/). Sleep on the weekends. Love traveling, gaming & hardware, music and family.
 

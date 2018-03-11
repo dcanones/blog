@@ -5,6 +5,6 @@ Tags: Kaggle, Machine Learning, Jupyter, Python
 Slug: kaggle-titanic
 Authors: David Adrián Cañones Castellano
 Summary: Go through the world famous Kaggle Titanic Competition explained step by step and learn how to create a simple but powerful classifier.
-Header_Cover: /images/posts/kaggle_titanic/titanic.jpg
+Header_Cover: images/posts/kaggle_titanic/titanic.jpg
 Headline: Get introduced to Supervised Learning predicting which passengers survived Titanic sinking
 Status: draft

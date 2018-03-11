@@ -5,7 +5,7 @@ Tags: Apache Spark, Python, Big Data, Jupyter, Data Science
 Slug: how-to-spark-cluster
 Authors: David Adrián Cañones Castellano
 Summary: Learn how to create and configure your Spark cluster and set up Jupyter notebook PySpark integration
-Header_Cover: /images/posts/spark_cluster/spark.jpg
+Header_Cover: images/posts/spark_cluster/spark.jpg
 Headline: The definitive tutorial
 
 ## What is Spark?
