@@ -4,7 +4,7 @@ Category: Madrid, Spain, Job
 Tags: Madrid, Spain, Seville, Data Science, Job
 Slug: i-moved-to-madrid
 Authors: David Adrián Cañones Castellano
-Summary: Moving from a middle sized city in the deep south of Spain to the third largest urban area in Europe is a big change. In this post I write about the pros and cons of living in a city like Madrid.
+Summary: Pros and cons of moving to the capital city of Spain coming from Seville.
 Header_Cover: images/posts/i_moved_to_madrid/madrid-black.jpg
 Headline: Nothing last forever
 
