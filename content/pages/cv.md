@@ -7,19 +7,21 @@ Header_Cover: images/pages/cv/desk.jpg
 
 ## Summary
 
+__UPDATE__: From 05/2018 I am again open for job proposals in Madrid area.
+
 More than 3 years of experience in Data Science and Consultancy. I help companies and institutions to solve complex
 problems applying data-driven solutions. I love a well and carefully done job.
 
 My main working tool is the Python Data Science stack (pandas, scikit-learn, matplotlib, etc.). Experienced
 with Big Data and distributed computing tools (Hadoop ecosystem).
 
-I am also an open source advocate and altruistically collaborate on software development and events. 
-I invest a great amount of my free time studying and trying new things.
+I am also an open source advocate and altruistically [collaborate][pd] on software development and events. I invest a great 
+amount of my free time studying and trying new things.
 
 You can download a .doc version of my resume here.
 
 <a style="text-decoration: none" class="btn btn-primary btn-block" href="/downloads/david_canones_resume.doc" download>
-<i class="fa fa-download" aria-hidden="true"></i> Download this CV (upd. august 2017)
+<i class="fa fa-download" aria-hidden="true"></i> Download this CV (upd. May 2018)
 </a>  
 <a style="text-decoration: none" href="mailto:davidarcano+hiring@gmail.com" class="btn btn-success btn-block">
 <i class="fa fa-envelope-square" aria-hidden="true"></i> Send me an email
@@ -52,12 +54,13 @@ the result of a collaboration with [IWT2][iwt2], a research group from the Unive
  
 - Environment: Python Data Science stack, Python Web Development stack, Relational Databases, Agile.
 
-__Python Engineer & Co-Founder, Glycerine (January 2017 - January 2018):__  
-Glycerine was an entrepreneurship and learning project consisting on an Instagram account automation system ‘as a
-service’; a bot that impersonates the user and mimics his behavior resulting in having a robotic 'community manager'
-working 24/7 for an instagram account. At this moment the project is cancelled due to Instagram efforts to stop this
-kind of bot-based products and the growing difficulty to find suitable project collaborators. We will open source most
-of source code in the near future.
+__Co-Founder & Developer, Glycerine (January 2017 - January 2018):__  
+Glycerine was an entrepreneurship and side project awarded by EOI Business School with specialized mentoring and
+coworking space. Project consisted on an Instagram account automation system ‘as a service’; a bot that impersonates 
+the user and mimics his behavior resulting in having a robotic 'community manager' working 24/7 for an instagram 
+account. At this moment the project is cancelled due to Instagram efforts to stop this kind of bot-based products and 
+the growing difficulty to find local suitable project collaborators. We managed to serve about 20 customers (mainly
+incluencers and small-sized fashion companies). **Codebase is available to potential employers on request**.
 
 - Responsibilities: As tech co-founder, I was responsible of all aspects related to technology like
 **architecting, infrastructure provisioning, developing, deploying, operations, implementing new
@@ -186,7 +189,7 @@ __Completed__ (click to go certification)
 * [Apache Hadoop](http://hadoop.apache.org/)
 * [Apache Impala](https://impala.apache.org/)
 
-### Infrastructure
+### Infrastructure & DevOps
 
 * [AWS](https://aws.amazon.com/)
     - [EC2](https://aws.amazon.com/ec2/?nc2=h_m1)
@@ -196,6 +199,7 @@ __Completed__ (click to go certification)
     - [S3](https://aws.amazon.com/s3/?nc2=h_m1)
     - [CloudFront](https://aws.amazon.com/cloudfront/?nc2=h_m1)
     - [Route 53](https://aws.amazon.com/route53/?nc2=h_m1)
+* [Docker](https://www.docker.com/)
 
 ### Libraries
 
@@ -269,4 +273,4 @@ These are technologies and libraries I have to learn but still had no time to ma
 [glycerine]:https://beta.glycerine.es
 [dlandng]:https://www.coursera.org/specializations/deep-learning
 [aml]:https://www.coursera.org/specializations/aml
-
+[pd]:https://pandas.pydata.org/pandas-docs/stable/release.html#thanks
