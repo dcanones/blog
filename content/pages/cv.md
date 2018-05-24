@@ -48,9 +48,9 @@ __Data Scientist (R&D), [Grupo Servinform][svf] (September 2016 - October 2017):
 Worked as researcher Data Scientist in a data driven research project awarded with EU R&D funds. This project was
 the result of a collaboration with [IWT2][iwt2], a research group from the University of Seville.
 
-- Responsibilities: designed **data pipelines** using a **micro-services** approach, wrote large parts of the **web app
- backend**, implemented a **recommendation system** and **natural language processing** applied to a search engine, 
- wrote technical documentation.
+- Responsibilities: designing and implementing **data pipelines**, implementing **Natural Language Processing** to app
+search engine, implementing **recommender system** to app, writting technical documentation, **integration of data 
+systems with app backend**, **RESTful APIs development**.
  
 - Environment: Python Data Science stack, Python Web Development stack, Relational Databases, Agile.
 
