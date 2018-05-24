@@ -7,16 +7,14 @@ Header_Cover: images/pages/cv/desk.jpg
 
 ## Summary
 
-I provide data-driven solutions to complex business problems.
+More than 3 years of experience in Data Science and Consultancy. I help companies and institutions to solve complex
+problems applying data-driven solutions. I love a well and carefully done job.
 
-Data Scientist with 3+ years of experience. Python language enthusiast and proficient coder, familiar with Big Data 
-technologies and open source advocate. I have been working with clients from very different backgrounds ranging from 
-telco to financial sectors.
+My main working tool is the Python Data Science stack (pandas, scikit-learn, matplotlib, etc.). Experienced
+with Big Data and distributed computing tools (Hadoop ecosystem).
 
-I love learning new things and being at the forefront of data technology.
-
-__At this very moment__ I am *__happily employed__*, and I am not actively accepting new job offers neither from Spain
-or abroad.
+I am also an open source advocate and altruistically collaborate on software development and events. 
+I invest a great amount of my free time studying and trying new things.
 
 You can download a .doc version of my resume here.
 
@@ -39,8 +37,10 @@ customers to make better decisions taking advantage of data and advanced analyti
 and international companies.
 
 - Responsibilities: designing and implementing **data pipelines**, performing **exploratory data analysis**,
-training **machine learning models**, **communicating results** using dashboards, visualizations and presentations.
+training **machine learning models**, **communicating results** using dashboards, visualizations and presentations. 
 Handling large amounts of data using **Big Data** technologies.
+
+- Environment: Python Data Science stack, Hadoop ecosystem, Relational Databases.
 
 __Data Scientist (R&D), [Grupo Servinform][svf] (September 2016 - October 2017):__  
 Worked as researcher Data Scientist in a data driven research project awarded with EU R&D funds. This project was
@@ -49,6 +49,8 @@ the result of a collaboration with [IWT2][iwt2], a research group from the Unive
 - Responsibilities: designed **data pipelines** using a **micro-services** approach, wrote large parts of the **web app
  backend**, implemented a **recommendation system** and **natural language processing** applied to a search engine, 
  wrote technical documentation.
+ 
+- Environment: Python Data Science stack, Python Web Development stack, Relational Databases, Agile.
 
 __Python Engineer & Co-Founder, Glycerine (January 2017 - January 2018):__  
 Glycerine was an entrepreneurship and learning project consisting on an Instagram account automation system ‘as a
@@ -60,6 +62,8 @@ of source code in the near future.
 - Responsibilities: As tech co-founder, I was responsible of all aspects related to technology like
 **architecting, infrastructure provisioning, developing, deploying, operations, implementing new
 features based on beta testers’ feedback and bug fixing**.
+
+- Environment: Python Web Development Stack, AWS, Relational Databases.
 
 __Junior Consultant, [Grupo Servinform][svf] (January 2016 - September 2016):__  
 As a Junior IT Consultant, I participated in relevant projects at the Innovation and Consultancy department, 
@@ -87,7 +91,7 @@ techniques.
 
 - I got involved as intern in several projects as support staff where I performed several tasks like creating data 
 models and visual reporting dashboards in Qlik, detailing system requirements, customer support by phone, or 
-translating offers into English among others.
+translating offers to English language among others.
 
 ---
 
@@ -109,7 +113,7 @@ Adviser: Dr. Manuel Antonio Silva Pérez
 __In progress__
 
 * [Deep Learning Specialization][dlandng] (2/5 completed), deeplearning.io, Coursera
-* [Data Engineer Track](https://www.dataquest.io/path/data-engineer) (10% completion), Dataquest.io
+* [Advanced Machine Learning][aml] (1/5 completed), Higher School of Economics, Coursera
 
 __Completed__ (click to go certification)
 
@@ -134,17 +138,14 @@ __Completed__ (click to go certification)
 ###Languages
 
 * [__Python__](https://www.python.org/) <i class="fa fa-heart" aria-hidden="true"></i>
+* [R](https://www.r-project.org/)
 * [SQL](https://en.wikipedia.org/wiki/SQL)
 * [MATLAB](https://www.mathworks.com/products/matlab.html?s_tid=hp_products_matlab)
-* [HTML](https://www.w3.org/html/)
-* [CSS](https://www.w3.org/Style/CSS/) (and [less](http://lesscss.org/))
-* [R](https://www.r-project.org/)
 
 ### Operating Systems
 
-* Linux
+* Linux (prefered)
 * OSX (from 2011 to 2017)
-* Windows 10 (Mostly gaming)
 
 ### Databases
 
@@ -163,6 +164,10 @@ __Completed__ (click to go certification)
 
 * [nginx](https://nginx.org/en/)
 * [Gunicorn](http://gunicorn.org/)
+
+### Version Control
+
+* [git](https://git-scm.com/)
 
 ### Frameworks
 
@@ -212,6 +217,8 @@ __Completed__ (click to go certification)
 #### Machine Learning
 
 * [scikit-learn](http://scikit-learn.org/stable/)
+* [MLlib](https://spark.apache.org/mllib/)
+* [h2o](https://www.h2o.ai/)
 
 #### Deep Learning (NN)
 
@@ -223,12 +230,21 @@ __Completed__ (click to go certification)
 * [NLTK](http://www.nltk.org/)
 * [spaCy](https://spacy.io/)
 
+#### Recommender Systems
+
+* [Surprise](http://surpriselib.com/)
+
 #### Visualization
 
 * [Matplotlib](https://matplotlib.org/)
 * [Seaborn](https://seaborn.pydata.org/)
 * [Bokeh](http://bokeh.pydata.org/en/latest/)
 * [Folium](https://folium.readthedocs.io/en/latest/)
+
+#### Reporting
+
+* [Power BI](https://powerbi.microsoft.com/en-us/)
+* [Qlik](https://www.qlik.com/us)
 
 ---
 
@@ -237,12 +253,10 @@ __Completed__ (click to go certification)
 These are technologies and libraries I have to learn but still had no time to master.
 
 * JavaScript
+* C++
 * Serverless ([Zappa](https://www.zappa.io/))
 * [D3.js](https://d3js.org/)
 * [Datashader](https://github.com/bokeh/datashader)
-* Shell scripting
-* [Docker](https://www.docker.com/)
-
 
 [ka]:https://www.kernel-analytics.com/en/
 [svf]:http://www.servinform.es/
@@ -254,4 +268,5 @@ These are technologies and libraries I have to learn but still had no time to ma
 [mail]:mailto:davidarcano+hiring@gmail.com
 [glycerine]:https://beta.glycerine.es
 [dlandng]:https://www.coursera.org/specializations/deep-learning
+[aml]:https://www.coursera.org/specializations/aml
 
