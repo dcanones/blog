@@ -121,11 +121,11 @@ welcoming and the city is also fairly safe.
 ### Seville
 Quality of life in Seville is very high. Lifestyle is superb and you can really feel very connected with the city life.
 Climate is good most of the year (with exception of summer months that can be very hot) and it foster people to hang out
-with friends very often. City centre is also very beautiful and charming. People is also very nice. I you love all 
-spanish cliches, will find almost all of them in Seville.  
+with friends very often. City centre is also very beautiful and charming. People is also very nice. If you love all 
+Spanish cliches you see in media, will find almost all of them in Seville.
 
 Transportation system is terrible, with only one underground line and mostly based on urban buses. Buses routes and 
-frequency follow some illogical patterns, with buses in router anybody takes with 5 minutes frequency while the most 
+frequency follow some illogical patterns, with buses in routes anybody takes with 5 minutes frequency while the most 
 important routes are collapsed.
 
 <div class="embed-responsive embed-responsive-16by9">
@@ -134,7 +134,7 @@ important routes are collapsed.
 
 Last edition: 02-25-2018
 
-[Abengoa]: http://www.abengoa.com/web/en/index3.html
+[Abengoa]: http://www.abengoa.com/
 [Airbus]: http://www.airbus.com/
 [Databeers]: https://www.meetup.com/es-ES/Databeers-Sevilla/
 [supply_demand]: https://en.wikipedia.org/wiki/Supply_and_demand

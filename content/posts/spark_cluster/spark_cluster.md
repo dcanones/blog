@@ -192,7 +192,7 @@ The process of installing Hadoop is pretty much the same as Spark, and I will go
 and is not strictly necessary to run your cluster. You can also decide to do it later. The steps for installing Hadoop 
 are:
 
-* Download Hadoop source [here](http://apache.rediris.es/hadoop/common/hadoop-2.8.0/hadoop-2.8.0.tar.gz). You are free 
+* Download Hadoop source [here](http://apache.rediris.es/hadoop/common/stable/). You are free 
 to install whatever version you like, but make sure you choose a version > 2.7 because it's a Spark's requirement. This
   is pretty much the same as we did before with Spark. Feel free to use equivalent command line expressions.
 * Uncompress in your home directory.
@@ -253,7 +253,7 @@ Now you can go to `localhost:8080` in the same computer where you started the ma
 case you don't have access to a web browser but have other devices connected to the same private network (e.g. a phone).
 In that URL you have access to the master server web user interface.
 
-![master web ui]({filename}/images/posts/spark_cluster/master_web_ui.png "Master Web UI")
+![master web ui]({static}/images/posts/spark_cluster/master_web_ui.png "Master Web UI")
 
 In this web you can see just behind Spark logo an URL parameter similar to `spark://<your_master_ip>:7077`. This URL is 
 very important because is the one you are going to need when connecting slaves to your cluster and I will name it `<your_master_url>`.
@@ -275,7 +275,7 @@ Perform this operation in every computer you want to connect to the cluster. In 
 After that, if you go to the master server web interface again you should see several rows in the 'Workers' section where, 
 one per slave server you started. There is also useful info like worker's memory, status, cores used and ip.
 
-![master slaves_web ui]({filename}/images/posts/spark_cluster/master_slave_web_ui.png "Master Web UI with Workers")
+![master slaves_web ui]({static}/images/posts/spark_cluster/master_slave_web_ui.png "Master Web UI with Workers")
 
 You can also click the links in the Spark web app and go to worker's page and tasks page. As you don't have any running 
 app connected to the cluster, you can't access running and completed tasks page.
@@ -338,7 +338,7 @@ Now it's time to launch a Jupyter notebook and test your installation. Type:
 If Jupyter is properly installed you should be able to go `localhost:8888/tree` URL in a web browser and see Jupyter folder 
 tree.
 
-![jupyter_notebook_tree]({filename}/images/posts/spark_cluster/jupyter_notebook_tree.png "Jupyter Notebook Folder Tree")
+![jupyter_notebook_tree]({static}/images/posts/spark_cluster/jupyter_notebook_tree.png "Jupyter Notebook Folder Tree")
 
 #### Installing findspark
 
@@ -373,14 +373,14 @@ your master URL and app name (up to you) as parameters.
 
 To test everything works well, you can display sc in your Jupyter notebook and should see an output like this:
 
-![jupyter_notebook_spark_context]({filename}/images/posts/spark_cluster/jupyter_notebook_spark_context.png "Jupyter Notebook Spark Context")
+![jupyter_notebook_spark_context]({static}/images/posts/spark_cluster/jupyter_notebook_spark_context.png "Jupyter Notebook Spark Context")
 
 You can click the link and go to your app web ui, which is very interesting while you a running long tasks.
 
 You should also connect to your master server web interface (`localhost:8080` or `<your_master_ip>:8080`) and see a new row 
 in Running Applications section, like this:
 
-![master_app_web_ui]({filename}/images/posts/spark_cluster/master_app_web_ui.png "Master Web UI with Spark Application")
+![master_app_web_ui]({static}/images/posts/spark_cluster/master_app_web_ui.png "Master Web UI with Spark Application")
 
 To turn off your master and slaves servers, use the following commands from your Spark installation directory:
 

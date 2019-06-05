@@ -1,29 +1,33 @@
 Title: Curriculum Vitae
-Header_Cover: images/pages/cv/desk.jpg
+Header_Cover: images/pages/cv/graph.jpg
 
 # David Adrián Cañones Castellano
 
-## Data Scientist
+### &#x1F52C; Data Scientist | &#x1F916; Machine Learning Engineer | &#x1F4B9; MBA
+
+---
 
 ## Summary
 
-I provide data-driven solutions to complex business problems.
+Data Scientist & Machine Learning Engineer with 4+ years of experience helping companies and institutions solving 
+complex problems using data analytics solutions. I have successfully completed projects ranging from predictive 
+modeling to data pipelines designing for both enterprises and startups.
 
-Data Scientist with 3+ years of experience. Python language enthusiast and proficient coder, familiar with Big Data 
-technologies and open source advocate. I have been working with clients from very different backgrounds ranging from 
-telco to financial sectors.
+I have a broad experience using Python Data Science toolkit (pandas, scikit-learn, Tensorflow, Keras, PySpark, etc.)and 
+work with large amounts of data ($\sim$GB, TB) in a daily basis, so I am also experienced with Big Data and distributed 
+computing tools (Hadoop Ecosystem: Spark, Hive, Impala, etc.) as well as parallel computing ones (GPU accelerated 
+computing).
 
-I love learning new things and being at the forefront of data technology.
+I am creator of products like [The Moderator Guru](https://moderator-guru.com), a Natural Language Processing tool that 
+automatically spots and classifies offensive text content.
 
-__At this very moment__ I am *__happily employed__*, and I am not actively accepting new job offers neither from Spain
-or abroad.
+I am member and supporter of the startup community and [Indie Hackers](https://www.indiehackers.com/) Community 
+Ambassador for Madrid.
 
-You can download a .doc version of my resume here.
-
-<a style="text-decoration: none" class="btn btn-primary btn-block" href="/downloads/david_canones_resume.doc" download>
-<i class="fa fa-download" aria-hidden="true"></i> Download this CV (upd. august 2017)
+<a style="text-decoration: none" class="btn btn-primary btn-block" href="/downloads/david_canones_cv.pdf" download>
+<i class="fa fa-download" aria-hidden="true"></i> Download this CV (upd. june 2019)
 </a>  
-<a style="text-decoration: none" href="mailto:davidarcano+hiring@gmail.com" class="btn btn-success btn-block">
+<a style="text-decoration: none" href="mailto:davidarcano+blog@gmail.com" class="btn btn-success btn-block">
 <i class="fa fa-envelope-square" aria-hidden="true"></i> Send me an email
 </a>  
 <a style="text-decoration: none; color: white; background-color: black; border-color: black" href="https://github.com/dcanones/" class="btn btn-block">
@@ -33,217 +37,133 @@ You can download a .doc version of my resume here.
 ---
 
 ## Experience
-__Data Scientist, [Kernel Analytics][ka] (October 2017 - Today):__  
-At this moment I am full time employed by Kernel Analytics, a boutique Data Science consultancy firm. We help our
-customers to make better decisions taking advantage of data and advanced analytics techniques. We work for top spanish
-and international companies.
 
-- Responsibilities: designing and implementing **data pipelines**, performing **exploratory data analysis**,
-training **machine learning models**, **communicating results** using dashboards, visualizations and presentations.
-Handling large amounts of data using **Big Data** technologies.
+### Senior Data Scientist, [Pragsis Bidoop][pb]  (7/2018 - Today): 
 
-__Data Scientist (R&D), [Grupo Servinform][svf] (September 2016 - October 2017):__  
-Worked as researcher Data Scientist in a data driven research project awarded with EU R&D funds. This project was
-the result of a collaboration with [IWT2][iwt2], a research group from the University of Seville.
+* __Tasks__:
+    * Development of Machine Learning models using traditional (scikit-learn, XGBoost, lightGBM) and Deep Learning 
+    (TensorFlow, Keras) frameworks
+	* Scaling Machine Learning models from prototyping to production using distributed and parallel computing (Spark, 
+	Dask, Celery)
+	* Orchestrating data pipelines using Apache Airflow
+	* Leveraging Python toolkit for Data Science to extract valuable information from Data and explain it through 
+	visualizations and reports using among other tools pandas, NumPy, Matplotlib, Plotly, Bokeh, Seaborn, etc.
+	* Development of Computer Vision solutions using Google Edge TPUs, Nvidia GPUs, Tensorflow and OpenCV
 
-- Responsibilities: designed **data pipelines** using a **micro-services** approach, wrote large parts of the **web app
- backend**, implemented a **recommendation system** and **natural language processing** applied to a search engine, 
- wrote technical documentation.
+* __Achievements__:
+    * Improved power production forecasting error in 10 percentage points for a cluster of 13 wind farms (about 1GW 
+    total managed power) located in Washington, USA, resulting in important savings for our client
+    * Developed a Reinforcement Learning algorithm for Amazon Web Services DeepRacer League and became member of the 
+    winning team (Gold, Silver and Copper positions)
+    * Developed a live tracking system for detecting people using Computer Vision techniques optimized for low 
+    consumption hardware requirements (Google Edge TPU, Raspberry Pi)
 
-__Python Engineer & Co-Founder, Glycerine (January 2017 - January 2018):__  
-Glycerine was an entrepreneurship and learning project consisting on an Instagram account automation system ‘as a
-service’; a bot that impersonates the user and mimics his behavior resulting in having a robotic 'community manager'
-working 24/7 for an instagram account. At this moment the project is cancelled due to Instagram efforts to stop this
-kind of bot-based products and the growing difficulty to find suitable project collaborators. We will open source most
-of source code in the near future.
+### Data Scientist, [Kernel Analytics][ka] (now BCG Gamma)  (10/2017 - 7/2018):
 
-- Responsibilities: As tech co-founder, I was responsible of all aspects related to technology like
-**architecting, infrastructure provisioning, developing, deploying, operations, implementing new
-features based on beta testers’ feedback and bug fixing**.
+* __Tasks__:
+    * Development of Machine Learning models using traditional (scikit-learn) and Big Data (Spark MLlib) frameworks
+    * Designing custom KPIs based on customers needs and data availability
+    * Designing data pipelines able to ingest data from heterogeneous inputs into Hadoop Distributed File System (HDFS)
+    * Orchestrating data pipeline executions using Apache Airflow
+    * Extraction of insights from customers data and creation of meaningful visualizations using Matplotlib, ggplot2, 
+    Seaborn, Plotly and Bokeh
+    * Creating interactive dashboards using Plotly Dash and Microsoft PowerBI
+    
+* __Achievements__:
+    * Developed a Customer Experience Management framework for a successful Mobile Operator. Designed pipeline from 
+    ingesting 3G/4G antennas data to creating a model to relate Customer Experience with Churn and Complaints, resulting 
+    into our client being able to monitor its mobile network infrastructure impact in Customer Experience
+    * Developed a predictive model for a well known Mobile Operator able to predict users complaints based on 
+    consumption patterns and user personal profile, resulting into our client being able to automate part of support 
+    process
+    
+### Founder, [The Moderator Guru][mod]  (1/2019 - Today):
 
-__Junior Consultant, [Grupo Servinform][svf] (January 2016 - September 2016):__  
-As a Junior IT Consultant, I participated in relevant projects at the Innovation and Consultancy department, 
-where I had to be very polyvalent, performing different tasks depending on the project and its stage. 
+* __Tasks__:
+    * Development of a fast NLP engine capable of detecting and classifying offensive text content
+	* Development of the web app around the NLP model, with Bootstrap and jQuery front-end and back-end based on Django
+	* Management of infrastructure based on Linux servers and networking
 
-My responsibilities comprised: functional analysis, data wrangling and analysis, writing technical documentation 
-and offers, making reports and presentations, attending meetings, visiting clients, among many others.
+* __Achievements__:
+    * Developed a NLP based product working on production with an available REST API able to serve thousands of requests
+    per minute
+    * Full project is bootstrapped and self-hosted in on- premise home infrastructure, allowing me to become Indie 
+    Hackers Community Ambassador for Madrid
+			
+### Junior Data Scientist, [Grupo Servinform][svf]  (2/2015 - 10/2017):
+				
+* __Tasks__:
+    * Designing data pipelines able to automatically clean and ingest data from heterogeneous inputs into relational 
+    databases using pandas and NumPy
+    * Developing Natural Language Processing models using NLTK
+    * Developing a data product (web app) to make data exploration easier for pharmaceutical and healthcare researchers 
+    allowing them to establish complex relationships between data from different sources
+    * Identifying potential automation opportunities internally and for our clients and validating technical 
+    feasibility
 
-- Main functional analyst in the biggest Robotic Process Automation project of the company with a major Spanish 
-telecom company as client.
-
-- I collaborated with my seniors generating ideas and writing the technical part of the memory to start a new R&D 
-project, publicly funded by the European Union with a positive result.
-
-__Intern, [Grupo Servinform][svf] (February 2015 - December 2015):__  
-As an Intern I had the opportunity to learn the way of work and best practices in the technology consultancy business 
-from the best. I participated in several projects and handled responsibilities from the very first moment, becoming a 
-valuable resource for my seniors.
-
-- Participated in Robotic Process Automation project for major Spanish book retail company, resulting in a reduction 
-of average operating time (AOT) of 70%.
-
-- Participated in Operational Improvement project for major Spanish financial company, applying Lean Management 
-techniques.
-
-- I got involved as intern in several projects as support staff where I performed several tasks like creating data 
-models and visual reporting dashboards in Qlik, detailing system requirements, customer support by phone, or 
-translating offers into English among others.
+* __Achievements__:
+    * Developed a Natural Language Processing Model able to interpret user queries (written as natural language) and 
+    translate into queries to our database			
+    * Developed a framework able to automate parts of hand-made back-office processes and integrate seamlessly with 
+    human workers, resulting in a new business line for our company and the ability to tackle projects that otherwise 
+    would be discarded
+	* Collaborated with my manager in the writing of a proposal for H2020 R&D program with an excellent result and 
+	public research funds granted to our company
 
 ---
 
 ## Education
 
-### Academic
+### EOI Business School (9/2014 - 9/2015):
+_MBA, Corporate Finance_
 
-__MBA, [Escuela de Organización Industrial][eoi] (September 2014 - September 2015):__  
-Specialization: Corporate Finance  
+### Universidad de Sevilla (9/2007 - 9/2014):
+_MS Industrial Engineering, Energy_
 
+---
 
-__MSc Industrial Engineering, [Universidad de Sevilla][us] (September 2007 - September 2014):__  
-Specialization: Energy and Thermal Engineering  
-Thesis: Análisis estadístico de viabilidad de central termosolar de torre con SAM (System Advisor Model)  
-Adviser: Dr. Manuel Antonio Silva Pérez
+## Honors & Awards
 
-### Courseware
+### AWS DeepRacer League Madrid, 3rd position (5/2019)
+Machine Learning competition organized by AWS which consisted on developing a Reinforcement Learning model for an 
+autonomous car. I got the 3rd position in Spanish competition and was member of the team that made the top 3 positions 
+(Gold, Silver and Copper)
+
+---
+
+## Courses & Certifications
  
-__In progress__
-
+* [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/8Y4PSZDQJ939), Stanford University, Coursera
+* [Advanced Machine Learning Specialization][aml] (2/7 completed), HSE Moscow, Coursera
 * [Deep Learning Specialization][dlandng] (2/5 completed), deeplearning.io, Coursera
-* [Data Engineer Track](https://www.dataquest.io/path/data-engineer) (10% completion), Dataquest.io
-
-__Completed__ (click to go certification)
-
+* [Learning From Data](https://courses.edx.org/certificates/66eaf815c70b44bdbc4c54b9a06170f8), Caltech, edX
+* [The Analytics Edge](https://courses.edx.org/certificates/35bb4da1cf61463abb62a6ef67f83472), MIT, edX
 * [Data Scientist Track](https://www.dataquest.io/view_cert/3ODZCIJFQRFJWHLAJWG9/) (100% completion), Dataquest.io
 * [Data Analyst Track](https://www.dataquest.io/view_cert/3ODZCIJFQRFJWHLAJWG9/) (100% completion), Dataquest.io
-* [Learning From Data](https://courses.edx.org/certificates/66eaf815c70b44bdbc4c54b9a06170f8), Caltech, edX
-* [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/8Y4PSZDQJ939), Stanford University, Coursera
+* [Computational Thinking and Data Science](https://courses.edx.org/certificates/705c792d66494fc0ad27c451cb691ca6), MIT, edX
+* [Computer Science and Programming Using Python](https://courses.edx.org/certificates/b2cdc2a2bc8f4774a4d1cdca61a5a81b), MIT, edX
 * [Data Manipulation at Scale: Systems and Algorithms](https://www.coursera.org/account/accomplishments/certificate/PB6PED3R2W3P), University of Washington, Coursera
-* [The Analytics Edge](https://courses.edx.org/certificates/35bb4da1cf61463abb62a6ef67f83472), MIT, edX
-* [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/b2cdc2a2bc8f4774a4d1cdca61a5a81b), MIT, edX
-* [Introduction to Computational Thinking and Data Science](https://courses.edx.org/certificates/705c792d66494fc0ad27c451cb691ca6), MIT, edX
-* [Introduction to HTML5](https://courses.edx.org/certificates/dc3e2f099ffd4eb4b4008ac5f671ca3c), W3C, edX
-* [Sustainable Urban Development](https://courses.edx.org/certificates/cb84b2643fc040b687db4f64e9d8a350), TU Delft & Wageningen University, edX
-* [Wind Energy](https://www.coursera.org/account/accomplishments/certificate/L32M4EJMBSRC), DTU, Coursera
-* [Our Energy Future](https://www.coursera.org/account/accomplishments/certificate/CERXUBGK9Q36), UC San Diego, Coursera
-* How to do Business in and with China, Shanghai Jiao Tong University
 
 ---
 
-## Tools  
+## Technical Stack
 
-###Languages
+|                                     |                                                              |
+|-------------------------------------|:-------------------------------------------------------------|
+| __Machine Learning__                | scikit-learn, XGBoost, lightGBM, H2O, MLlib
+| __Deep Learning__                   | TensorFlow, Keras, PyTorch
+| __Computer Vision__                 | OpenCV
+| __NLP__                             | NLTK, spaCy
+| __In Memory__                       | pandas, NumPy, Apache Arrow
+| __Relational__                      | PostgreSQL, SQLite, Oracle
+| __Big Data__                        | Apache Spark, Hive, Impala
+| __Cloud Computing__                 | AWS (Amazon Web Services)
+| __Orchestration__                   | Apache Airflow, Apache Oozie
+| __Web Development__     &nbsp;&nbsp;| HTML, CSS, Javascript, Django, Flask
+| __Languages__                       | Python, R, SQL
 
-* [__Python__](https://www.python.org/) <i class="fa fa-heart" aria-hidden="true"></i>
-* [SQL](https://en.wikipedia.org/wiki/SQL)
-* [MATLAB](https://www.mathworks.com/products/matlab.html?s_tid=hp_products_matlab)
-* [HTML](https://www.w3.org/html/)
-* [CSS](https://www.w3.org/Style/CSS/) (and [less](http://lesscss.org/))
-* [R](https://www.r-project.org/)
-
-### Operating Systems
-
-* Linux
-* OSX (from 2011 to 2017)
-* Windows 10 (Mostly gaming)
-
-### Databases
-
-#### Relational
-
-* [PostgreSQL](https://www.postgresql.org/)
-* [SQLite](https://www.sqlite.org/)
-* [Oracle](https://www.oracle.com/database/index.html)
-
-#### NoSQL
-
-* [Redis](https://redis.io/)
-* PostgreSQL > 9.4 (json) [What!?](https://www.enterprisedb.com/postgres-plus-edb-blog/marc-linster/postgres-outperforms-mongodb-and-ushers-new-developer-reality)
-
-### Servers
-
-* [nginx](https://nginx.org/en/)
-* [Gunicorn](http://gunicorn.org/)
-
-### Frameworks
-
-#### Backend
-
-* [__Django__](https://www.djangoproject.com/) (my main Web Dev. framework)
-* [Flask](http://flask.pocoo.org/)
-
-#### Frontend
-
-* [Bootstrap](https://getbootstrap.com/docs/3.3/)
-
-### Big Data
-
-* [Apache Spark](https://spark.apache.org/)
-* [Apache Hadoop](http://hadoop.apache.org/)
-* [Apache Impala](https://impala.apache.org/)
-
-### Infrastructure
-
-* [AWS](https://aws.amazon.com/)
-    - [EC2](https://aws.amazon.com/ec2/?nc2=h_m1)
-    - [Lightsail](https://amazonlightsail.com/)
-    - [RDS](https://aws.amazon.com/rds/?nc2=h_m1)
-    - [Certificate Manager](https://aws.amazon.com/certificate-manager/?nc2=h_m1)
-    - [S3](https://aws.amazon.com/s3/?nc2=h_m1)
-    - [CloudFront](https://aws.amazon.com/cloudfront/?nc2=h_m1)
-    - [Route 53](https://aws.amazon.com/route53/?nc2=h_m1)
-
-### Libraries
-
-#### Data handling
-
-* [__Pandas__](https://pandas.pydata.org/)
-* [NumPy](http://www.numpy.org/)
-
-#### Data pipelines
-
-* [Apache Airflow](https://airflow.apache.org/)
-
-#### Scientific computing
-
-* [SciPy](https://www.scipy.org/)
-* [IPython](https://ipython.org/)
-* [Jupyter](https://jupyter.org/)
-
-#### Machine Learning
-
-* [scikit-learn](http://scikit-learn.org/stable/)
-
-#### Deep Learning (NN)
-
-* [TensorFlow](https://www.tensorflow.org/)
-* [Keras](https://keras.io/)
-
-#### Natural Language Processing
-
-* [NLTK](http://www.nltk.org/)
-* [spaCy](https://spacy.io/)
-
-#### Visualization
-
-* [Matplotlib](https://matplotlib.org/)
-* [Seaborn](https://seaborn.pydata.org/)
-* [Bokeh](http://bokeh.pydata.org/en/latest/)
-* [Folium](https://folium.readthedocs.io/en/latest/)
-
----
-
-## Learning list
-
-These are technologies and libraries I have to learn but still had no time to master.
-
-* JavaScript
-* Serverless ([Zappa](https://www.zappa.io/))
-* [D3.js](https://d3js.org/)
-* [Datashader](https://github.com/bokeh/datashader)
-* Shell scripting
-* [Docker](https://www.docker.com/)
-
-
+[mod]:https://moderator-guru.com
+[pb]:https://www.pragsis.com
 [ka]:https://www.kernel-analytics.com/en/
 [svf]:http://www.servinform.es/
 [iwt2]:http://iwt2.org/en/home/
@@ -254,4 +174,4 @@ These are technologies and libraries I have to learn but still had no time to ma
 [mail]:mailto:davidarcano+hiring@gmail.com
 [glycerine]:https://beta.glycerine.es
 [dlandng]:https://www.coursera.org/specializations/deep-learning
-
+[aml]:https://www.coursera.org/specializations/aml
