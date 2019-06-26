@@ -1,10 +1,10 @@
 Title: I am David
 Header_Cover: images/pages/about/david_bamboo.jpg
 
+### About
+
 My name is David Adrián Cañones Castellano and I am a Data Scientist, Machine Learning Engineer and Independent Maker. 
 Love traveling, gaming & hardware, music and family.
-
-### About
 
 MSc Industrial Engineer by training, I am actually involved in Data Science projects, specially taking advantage of 
 data to train Machine Learning models. I also made some web dev and create products around my field of expertise for 

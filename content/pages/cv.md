@@ -21,6 +21,9 @@ computing).
 I am creator of products like [The Moderator Guru](https://moderator-guru.com), a Natural Language Processing tool that 
 automatically spots and classifies offensive text content.
 
+I Revitalized [DataTau][datatau], one of the most important websites to share Data Science news, articles, 
+and have discussions. [Open sourced][open] the site code on GitHub and maintain the project.
+
 I am member and supporter of the startup community and [Indie Hackers](https://www.indiehackers.com/) Community 
 Ambassador for Madrid.
 
@@ -77,6 +80,21 @@ Ambassador for Madrid.
     consumption patterns and user personal profile, resulting into our client being able to automate part of support 
     process
     
+### Maintainer, [DataTau][datatau]  (6/2019 - Today):
+
+* __Tasks__:
+    * Web development with Django (Python)
+	* Management and maintenance of Open Source project (issues, roadmap, pull requests, etc.)
+	* Promoting the site in tech forums and communities
+    * Hosting management in personal datacenter
+
+* __Achievements__:
+    * Development of a fully functional clone of Hacker News in a record time (3 days)
+    * Viral relaunching of the site, reaching Hacker News front page and a very relevant position in Reddit
+    * Hosting in self-owned infrastructure, supporting major traffic spikes
+    * Revitalizing DataTau community and creation of open source project that ensures continuity and independence of 
+    DataTau forever
+
 ### Founder, [The Moderator Guru][mod]  (1/2019 - Today):
 
 * __Tasks__:
@@ -175,3 +193,5 @@ autonomous car. I got the 3rd position in Spanish competition and was member of 
 [glycerine]:https://beta.glycerine.es
 [dlandng]:https://www.coursera.org/specializations/deep-learning
 [aml]:https://www.coursera.org/specializations/aml
+[open]:https://github.com/datatau-net/DataTau
+[datatau]:https://datatau.net
