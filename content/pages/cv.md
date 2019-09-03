@@ -60,6 +60,13 @@ Ambassador for Madrid.
     winning team (Gold, Silver and Copper positions)
     * Developed a live tracking system for detecting people using Computer Vision techniques optimized for low 
     consumption hardware requirements (Google Edge TPU, Raspberry Pi)
+    
+### Lead Teacher, [IronHack][ih]  (7/2019 - Today): 
+
+Lead Teacher in one of the best Data Science schools worldwide, combining both theoretical and
+technical stack to build the future generation of Data Scientists. My most important asset is my link
+and experience with the Real World as I don’t spend more of 50% of my time in academia.
+
 
 ### Data Scientist, [Kernel Analytics][ka] (now BCG Gamma)  (10/2017 - 7/2018):
 
@@ -195,3 +202,4 @@ autonomous car. I got the 3rd position in Spanish competition and was member of 
 [aml]:https://www.coursera.org/specializations/aml
 [open]:https://github.com/datatau-net/DataTau
 [datatau]:https://datatau.net
+[ih]:https://www.ironhack.com/en/
